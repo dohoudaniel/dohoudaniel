@@ -1,6 +1,6 @@
-🔥 Hi, I am Dohou Daniel Favour (@dohoudaniel).
-✨ I’m interested in Software Engineering and Android Development.
-👨‍💻 I am a Full Stack Developer, Software Engineer and Android Application Developer in development.
+- 🔥 Hi, I am Dohou Daniel Favour (@dohoudaniel).
+- ✨ I’m interested in Software Engineering and Android Development.
+- 👨‍💻 I am a Full Stack Developer, Software Engineer and Android Application Developer in development.
 - 🤍 I am a Beautiful Mind ❣✨.
 - 👨‍💻 I’m currently learning Software Engineering with ALX Software Engineering Cohort 9.
 - 👨‍💻 I plan to learn Android Application Development with Google Africa Developer Scholarship 2023 (This is the fourth time I enroll for Google Africa Developer Scholarship.).
