@@ -3,7 +3,7 @@
 - 👨‍💻 I am a Full Stack Developer, Software Engineer and Android Application Developer in the making.
 - 🤍 I am a Beautiful Mind ❣✨.
 - 👨‍💻 I’m currently learning Software Engineering with ALX Software Engineering Cohort 9.
-- 👨‍💻 I plan to learn Android Application Development with Google Africa Developer Scholarship 2023 (This is the fourth time I enroll for GADS.).
+- 👨‍💻 I plan to learn Android Application Development with Google Africa Developer Scholarship 2023 (This is the fourth time I enroll for Google Africa Developer Scholarship.).
 - 🌹 I’m looking to collaborate on C and Python Projects
 - 🌹 You can reach me on: Whatsapp - +2348139720259   Gmail - dohoudanielfavour@gmail.com   Twitter - https://twitter.com/DohouDaniel10   
 - 🔥 You can reach me on: StackOverFlow - https://stackoverflow.com/users/19571241/daniel-dohou
