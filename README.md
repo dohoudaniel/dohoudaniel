@@ -6,8 +6,8 @@
 - 👨‍💻 I plan to learn Android Application Development with Google Africa Developer Scholarship 2023 (This is the fourth time I enroll for Google Africa Developer Scholarship.).
 - 🌹 I’m looking to collaborate on C and Python Projects
 - 🌹 You can reach me on: Whatsapp - +2348139720259
--                         Gmail - dohoudanielfavour@gmail.com
--                         Twitter - https://twitter.com/DohouDaniel10   
+                          Gmail - dohoudanielfavour@gmail.com
+                          Twitter - https://twitter.com/DohouDaniel10   
 - 🔥 You can reach me on: StackOverFlow - https://stackoverflow.com/users/19571241/daniel-dohou
 - 👨‍💻 You can reach me on: LinkedIn - https://www.linkedin.com/in/daniel-dohou-1435aa23b/
 <!---
