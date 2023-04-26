@@ -15,9 +15,11 @@
 - 👨‍💻 You can reach me on: LinkedIn -https://www.linkedin.com/in/daniel-dohou-1435aa23b/
 - I am A Beautiful Mind 👨‍💻🎧🤍.
 
+<!---
+
 # Technical Write-ups:
 - Here is the link to my first blog: 
-<!---
+
 dohoudaniel/dohoudaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
