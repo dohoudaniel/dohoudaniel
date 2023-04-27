@@ -15,6 +15,8 @@
 - 👨‍💻 You can reach me on: LinkedIn -https://www.linkedin.com/in/daniel-dohou-1435aa23b/
 - I am A Beautiful Mind 👨‍💻🎧🤍.
 
+- My First Blog: https://medium.com/@dohoudanielfavour/what-happens-when-you-type-www-google-com-in-your-web-browser-and-press-enter-b4ded1b99b90
+
 <!---
 
 # Technical Write-ups:
