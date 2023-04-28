@@ -10,11 +10,12 @@
   - 2022 Certificate of Completion: https://github.com/dohoudaniel/dohoudaniel/tree/main/Certificates/Google-Africa-Developer-Scholarship-AAD/2022-Certificate-Of-Completion ( To Be Updated )
 - 👨‍💻 I am gaining experience on how to use C, Python, JavaScript and Kotlin.
 - 🌹 I’m looking to collaborate on C Projects, Python Projects, JavaScript Projects, Kotlin Projects, and web development projects too.
+- My First Blog: https://medium.com/@dohoudanielfavour/what-happens-when-you-type-www-google-com-in-your-web-browser-and-press-enter-b4ded1b99b90
 - 🌹 You can reach me on: WhatsApp - https://wa.me/+2348139720259, Gmail - dohoudanielfavour@gmail.com, Twitter – https://twitter.com/DohouDaniel10   
 - 🔥 You can reach me on: Stack Overflow - https://stackoverflow.com/users/19571241/daniel-dohou
 - 👨‍💻 You can reach me on: LinkedIn -https://www.linkedin.com/in/daniel-dohou-1435aa23b/
 - I am A Beautiful Mind 👨‍💻🎧🤍.
-- My First Blog: https://medium.com/@dohoudanielfavour/what-happens-when-you-type-www-google-com-in-your-web-browser-and-press-enter-b4ded1b99b90
+
 
 <!---
 
