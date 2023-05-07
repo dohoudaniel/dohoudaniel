@@ -14,7 +14,7 @@
 - 🌹 You can reach me on: WhatsApp - https://wa.me/+2348139720259, Gmail - dohoudanielfavour@gmail.com, Twitter – https://twitter.com/DohouDaniel10   
 - 🔥 You can reach me on: Stack Overflow - https://stackoverflow.com/users/19571241/daniel-dohou
 - 👨‍💻 You can reach me on: LinkedIn -https://www.linkedin.com/in/daniel-dohou-1435aa23b/
-- I am A Beautiful Mind 👨‍💻🎧🤍.
+- A Beautiful Mind 👨‍💻🎧🤍🧘‍♂️.
 
 
 <!---
