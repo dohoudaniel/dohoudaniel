@@ -17,7 +17,7 @@
 
 <!--
 #### Portfolio Projects
-- Learnopila - Link to be updated
+- Learnopila - Link to be updated. Also, update GitHub organization.
 --> 
 
 <!--- #### 🎖 GitHub Contribution Graph: For the whole of 2023, I pushed to GitHub everyday. But the commits made on the Tuesday, 23rd of May 2023, and Wednesday, 24th of May did not reflect on my contribution graph. -->
