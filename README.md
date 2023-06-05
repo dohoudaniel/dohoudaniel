@@ -15,6 +15,11 @@
 - 🔥 You can reach me on: Stack Overflow - https://stackoverflow.com/users/19571241/daniel-dohou
 - 👨‍💻 You can reach me on: LinkedIn -https://www.linkedin.com/in/daniel-dohou-1435aa23b/
 
+<!--
+#### Portfolio Projects
+- Learnopila - Link to be updated
+--> 
+
 <!--- #### 🎖 GitHub Contribution Graph: For the whole of 2023, I pushed to GitHub everyday. But the commits made on the Tuesday, 23rd of May 2023, and Wednesday, 24th of May did not reflect on my contribution graph. -->
 <!--- You can confirm it for yourselves. -->
 
