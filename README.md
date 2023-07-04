@@ -10,6 +10,31 @@
 - 📖📕 My First Blog: <a href="https://medium.com/@dohoudanielfavour/what-happens-when-you-type-www-google-com-in-your-web-browser-and-press-enter-b4ded1b99b90">What Happens When You Type 'www.google.com' and press 'Enter'?</a>
 - 🌹 You can reach me on: <a href="https://wa.me/+2348139720259">WhatsApp</a> <a href="mailto:dohoudanielfavour@gmail.com">Gmail</a> <a href="https://twitter.com/DohouDaniel10">Twitter</a> <a href="https://stackoverflow.com/users/19571241/daniel-dohou">Stack Overflow</a> <a href="https://www.linkedin.com/in/daniel-dohou-1435aa23b/">LinkedIn</a>
 
+
+### My GitHub Stats
+<p align="center">
+<a href="https://github.com/dohoudaniel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dohoudaniel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dohoudaniel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<!-- Languages And Tools -->
+<hr/>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+</div>
+<hr/>
+
 ###### Portfolio Projects 👨‍💻
 1. Learnopolia 🐢 *(In Development)*
     - <a href="https://github.com/learnopolia/">GitHub Org.</a>
@@ -17,6 +42,7 @@
 2. A Green Bot 🌏 *(In Development)*
     - <a href="https://github.com/A-Green-Bot">GitHub Org.</a>
     - <a href="https://a-green-bot.github.io/">A Green Bot 🌏</a>
+
 
 ##### A Beautiful Mind 👨‍💻🎧🤍🧘‍♂️
 
@@ -32,6 +58,17 @@
 <!---
 # Technical Write-ups:
 - Here is the link to my first blog:
+-->
+
+<!--
+Part 2
+![](https://github-readme-stats.vercel.app/api?username=dohoudaniel&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dohoudaniel&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dohoudaniel&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
+<!--
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dohoudaniel&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 -->
 
 <!-- dohoudaniel/dohoudaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
