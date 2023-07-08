@@ -7,7 +7,7 @@
 - 👨‍💻 <strong>Building: </strong>
     - <a href="https://learnopolia.github.io/">Learnopolia 🐢</a>
     - <a href="https://a-green-bot.github.io/">A Green Bot 🌏</a>
-- <strong>Collaborating in</strong>: <a href="https://github.com/ALX-SE-Algorithmia">ALX SE Algorithmia</a>
+- <strong>Building</strong>: <a href="https://github.com/ALX-SE-Algorithmia">ALX SE Algorithmia</a>
 - 📖📕 My First Blog: <a href="https://medium.com/@dohoudanielfavour/what-happens-when-you-type-www-google-com-in-your-web-browser-and-press-enter-b4ded1b99b90">What Happens When You Type 'www.google.com' and press 'Enter'?</a>
 - 🌹 You can reach me on: <a href="https://wa.me/+2348139720259">WhatsApp</a> <a href="mailto:dohoudanielfavour@gmail.com">Gmail</a> <a href="https://twitter.com/DohouDaniel10">Twitter</a> <a href="https://stackoverflow.com/users/19571241/daniel-dohou">Stack Overflow</a> <a href="https://www.linkedin.com/in/daniel-dohou-1435aa23b/">LinkedIn</a>
 
