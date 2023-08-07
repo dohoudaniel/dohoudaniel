@@ -1,4 +1,4 @@
-- 🔥 Hi, I am Dohou Daniel Favour <a href="https://github.com/dohoudaniel/">(@dohoudaniel)</a>.
+- 🔥 Hi, I am Dohou Daniel Favour (<a href="https://github.com/dohoudaniel/">@dohoudaniel</a>).
 - ✨ I’m interested in Software Engineering, Android Development and Website Development.
 - 👨‍💻 I am a Software Engineer in development. <!-- Full Stack Developer, Full Stack Web Developer and Android Application Developer -->  
 - 👨‍💻 I’m currently learning Software Engineering with ALX Software Engineering Cohort 12, and other resources.
