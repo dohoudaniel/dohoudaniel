@@ -36,6 +36,8 @@
 </div>
 <hr/>
 
+[![dohoudaniel's GitHub | Languages Over Time](https://stats.quine.sh/dohoudaniel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dohoudaniel)
+
 ###### Portfolio Projects 👨‍💻
 1. Learnopolia 🐢 *(In Development)*
     - <a href="https://github.com/learnopolia/">GitHub Org.</a>
