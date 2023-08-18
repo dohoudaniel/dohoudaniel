@@ -22,6 +22,7 @@
 
 <!-- Quine Integration -->
 [![dohoudaniel's GitHub | Stats](https://stats.quine.sh/dohoudaniel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dohoudaniel)
+[![dohoudaniel's GitHub | Languages Over Time](https://stats.quine.sh/dohoudaniel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dohoudaniel)
 
 <!-- Languages And Tools -->
 <hr>
