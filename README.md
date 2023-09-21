@@ -2,6 +2,7 @@
 - ✨ I’m interested in Software Engineering, Android Development and Website Development.
 - 👨‍💻 I am a Software Engineer in development (<a href="https://twitter.com/search?q=%23365daysofsoftwareengineering&src=hashtag_click">X (Formerly Twitter): #365daysofsoftwareengineering</a>). <!-- Full Stack Developer, Full Stack Web Developer and Android Application Developer -->  
 - 👨‍💻 I’m currently learning Software Engineering with ALX Software Engineering Cohort 17, and other resources. <!-- (Deferred from cohort 9 to cohort 12, and from cohort 12 to cohort 17). -->
+- 🌟 I'm a <a href="https://twitter.com/facesofalxse/status/1704408871542854002?s=20">Face of ALX SE</a>.
 - 👨‍💻 I learned the basics of Web Development with We Connect The Dots Code-A-Thon 2023, and my team won. Our team project is <a href="https://a-green-bot.github.io/">A Green Bot 🌏</a>
 - 🌹 I am looking to collaborate on projects.
 - 👨‍💻 <strong>Building: </strong>
