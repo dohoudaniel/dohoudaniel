@@ -15,6 +15,7 @@
 - 🌹 <strong>Connect with me: </strong><a href="https://wa.me/+2348139720259">WhatsApp</a>&nbsp;&nbsp;<a href="mailto:dohoudanielfavour@gmail.com">Gmail</a>&nbsp;&nbsp;<a href="https://twitter.com/DohouDaniel10">Twitter</a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19571241/daniel-dohou">Stack Overflow</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniel-dohou-1435aa23b/">LinkedIn</a>
 -->
 
+<!-- [![An image of @dohoudaniel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dohoudaniel)](https://holopin.io/@dohoudaniel) -->
 
 ### My GitHub Stats
 <p align="center">
