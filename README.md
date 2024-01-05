@@ -18,12 +18,16 @@
 <!-- [![An image of @dohoudaniel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dohoudaniel)](https://holopin.io/@dohoudaniel) -->
 
 ### My GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dohoudaniel1&theme=transparent)](https://git.io/streak-stats)
+
 <p align="center">
 <a href="https://github.com/dohoudaniel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dohoudaniel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dohoudaniel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
 <!-- Quine Integration -->
 <!--
