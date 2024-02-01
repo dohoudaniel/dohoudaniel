@@ -1,23 +1,32 @@
 - 🔥 Hi, I am Dohou Daniel Favour (<a href="https://github.com/dohoudaniel/">@dohoudaniel</a>).
-- ✨ I’m interested in Software Engineering, Android Development, and Website Development.
-- 👨‍💻 I am a Software Engineer in development (<a href="https://twitter.com/search?q=%23365daysofsoftwareengineering&src=hashtag_click">X (Formerly Twitter): #365daysofsoftwareengineering</a>). <!-- Full Stack Developer, Full Stack Web Developer and Android Application Developer -->  
-- 👨‍💻 I’m currently learning Software Engineering with ALX Software Engineering Cohort 17, and other resources. <!-- (Deferred from cohort 9 to cohort 12, and from cohort 12 to cohort 17). -->
-- 🌟 I'm a <a href="https://twitter.com/facesofalxse/status/1704408871542854002?s=20">Face of ALX SE</a>.
-- 👨‍💻 I learned the basics of Web Development with We Connect The Dots Code-A-Thon 2023, and my team won. Our team project is <a href="https://a-green-bot.github.io/">A Green Bot 🌏</a>
+- ✨ I’m interested in Software Engineering, Android Development, and being a Google Developer Expert.
+- 👨‍💻 I am a Software Engineer in training with ALX SE Africa (<a href="https://twitter.com/search?q=%23365daysofsoftwareengineering&src=hashtag_click">X (Formerly Twitter): #365daysofsoftwareengineering</a>). <!-- Full Stack Developer, Full Stack Web Developer and Android Application Developer -->  
+<!-- - 👨‍💻 I’m currently learning Software Engineering with ALX Software Engineering Cohort 17, and other resources. <!-- (Deferred from cohort 9 to cohort 12, and from cohort 12 to cohort 17). -->
+- 🌟 I'm a <strong><a href="https://twitter.com/facesofalxse/status/1704408871542854002?s=20">Face of ALX SE</a>.
+- 👨‍💻 I participated in the <!-- I learned the basics of Web Development with --><strong>We Connect The Dots Code-A-Thon 2023</strong>, and my team won. Team project is <strong><a href="https://a-green-bot.github.io/">A Green Bot 🌏</a></strong>
 - 🌹 I am looking to collaborate on projects.
-- 🧘‍♂️ I am A Beautiful Mind 🤍
+  
 - 👨‍💻 <strong>Building: </strong>
-    - <a href="https://learnopolia.github.io/">Learnopolia 🐢</a>
+    - <a href="https://learnopolia.github.io/">Learnopolia 🐢</a>:
+        - <a href="https://github.com/learnopolia/">GitHub Org.</a>
+        - <a href="https://learnopolia.github.io/">Website (Static)</a>
+  
     - <a href="https://a-green-bot.github.io/">A Green Bot 🌏</a>
-- <strong>Building</strong>: <a href="https://github.com/ALX-SE-Algorithmia">Algorithmia SE 🌍</a>
+        - <a href="https://github.com/A-Green-Bot">GitHub Org.</a>
+        - <a href="https://a-green-bot.github.io/">A Green Bot 🌏</a>
+  
+    - <strong><a href="https://github.com/ALX-SE-Algorithmia">Algorithmia SE 🌍</a>
+
 - 📖📕 My First Blog: <a href="https://medium.com/@dohoudanielfavour/what-happens-when-you-type-www-google-com-in-your-web-browser-and-press-enter-b4ded1b99b90">What Happens When You Type 'www.google.com' and press 'Enter'?</a>
+
 <!--
 - 🌹 <strong>Connect with me: </strong><a href="https://wa.me/+2348139720259">WhatsApp</a>&nbsp;&nbsp;<a href="mailto:dohoudanielfavour@gmail.com">Gmail</a>&nbsp;&nbsp;<a href="https://twitter.com/DohouDaniel10">Twitter</a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19571241/daniel-dohou">Stack Overflow</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniel-dohou-1435aa23b/">LinkedIn</a>
 -->
 
 <!-- [![An image of @dohoudaniel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dohoudaniel)](https://holopin.io/@dohoudaniel) -->
 
-### My GitHub Stats
+<!-- ### My GitHub Stats -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=My+GitHub+Stats)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=dohoudaniel&theme=transparent" alt="GitHub Streak" />
@@ -39,7 +48,9 @@
 
 <!-- Languages And Tools -->
 <br>
-<strong><p align="center">Skills</p></strong>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%97%BB+My+Skills)](https://git.io/typing-svg)
+<!-- <strong><p align="center">Skills</p></strong> -->
 <hr>
 <div align="center">
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -63,7 +74,9 @@
 <hr/>
 
 <br>
-<strong><p align="center">Connect With Me 🤍</p></strong>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Connect+With+Me+%F0%9F%A4%8D)](https://git.io/typing-svg)
+<!-- <strong><p align="center">Connect With Me 🤍</p></strong> -->
 <p align="center">
     <a href="https://www.twitter.com/DohouDaniel10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
     <a href="https://www.github.com/dohoudaniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
@@ -75,16 +88,15 @@
 <!-- [![dohoudaniel's GitHub | Languages Over Time](https://stats.quine.sh/dohoudaniel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dohoudaniel) -->
 
 
-##### Portfolio Projects 👨‍💻
+<!-- ##### Portfolio Projects 👨‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Portfolio+Projects)](https://git.io/typing-svg)
 1. Learnopolia 🐢 *(In Development)*
-    - <a href="https://github.com/learnopolia/">GitHub Org.</a>
-    - <a href="https://learnopolia.github.io/">Learnopolia 🐢</a>
 2. A Green Bot 🌏 *(In Development)*
-    - <a href="https://github.com/A-Green-Bot">GitHub Org.</a>
-    - <a href="https://a-green-bot.github.io/">A Green Bot 🌏</a>
+-->
+    
+<!-- ##### A Beautiful Mind 👨‍💻🎧🤍🧘‍♂️ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=A+Beautiful+Mind)](https://git.io/typing-svg)
 
-
-##### A Beautiful Mind 👨‍💻🎧🤍🧘‍♂️
 
 <!-- - 🤍 I am A Beautiful Mind ❣✨. -->
 <!-- - 👨‍💻 I planned on learning Android Application Development with Google Africa Developer Scholarship 2023 (This is the fourth time I enroll for Google Africa Developer Scholarship.). Sadly, the Google Africa Developer Scholarship Program has come to an end after 5 years. This is truly a bittersweet occurrence to me, but I shall not give up my love for Android Application Development. I will keep on looking, and I will surely find 👨‍💻🎧🤍. 
