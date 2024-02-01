@@ -26,7 +26,7 @@
 <!-- [![An image of @dohoudaniel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dohoudaniel)](https://holopin.io/@dohoudaniel) -->
 
 <!-- ### My GitHub Stats -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=My+GitHub+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=My+GitHub+Stats)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=dohoudaniel&theme=transparent" alt="GitHub Streak" />
@@ -49,7 +49,7 @@
 <!-- Languages And Tools -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%97%BB+My+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=My+Skillset)](https://git.io/typing-svg)
 <!-- <strong><p align="center">Skills</p></strong> -->
 <hr>
 <div align="center">
@@ -75,7 +75,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Connect+With+Me+%F0%9F%A4%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Connect+With+Me)](https://git.io/typing-svg)
 <!-- <strong><p align="center">Connect With Me 🤍</p></strong> -->
 <p align="center">
     <a href="https://www.twitter.com/DohouDaniel10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
@@ -95,7 +95,7 @@
 -->
     
 <!-- ##### A Beautiful Mind 👨‍💻🎧🤍🧘‍♂️ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=A+Beautiful+Mind)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=A+Beautiful+Mind)](https://git.io/typing-svg)
 
 
 <!-- - 🤍 I am A Beautiful Mind ❣✨. -->
