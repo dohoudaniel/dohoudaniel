@@ -26,6 +26,7 @@
 <!-- [![An image of @dohoudaniel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dohoudaniel)](https://holopin.io/@dohoudaniel) -->
 <br>
 <h3 align=center>My GitHub Stats</h3>
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=dohoudaniel&theme=transparent" alt="GitHub Streak" />
   </a>
