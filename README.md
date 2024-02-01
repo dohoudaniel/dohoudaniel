@@ -24,10 +24,8 @@
 -->
 
 <!-- [![An image of @dohoudaniel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dohoudaniel)](https://holopin.io/@dohoudaniel) -->
-
-<!-- ### My GitHub Stats -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=My+GitHub+Stats)](https://git.io/typing-svg)
-<p align="center">
+<br>
+<h3 align=center>My GitHub Stats</h3>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=dohoudaniel&theme=transparent" alt="GitHub Streak" />
   </a>
@@ -48,9 +46,7 @@
 
 <!-- Languages And Tools -->
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=My+Skillset)](https://git.io/typing-svg)
-<!-- <strong><p align="center">Skills</p></strong> -->
+<h3 align="center">Skills</h3></strong>
 <hr>
 <div align="center">
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -75,8 +71,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Connect+With+Me)](https://git.io/typing-svg)
-<!-- <strong><p align="center">Connect With Me 🤍</p></strong> -->
+<h3 align="center">Connect With Me 🤍</h3></strong>
 <p align="center">
     <a href="https://www.twitter.com/DohouDaniel10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
     <a href="https://www.github.com/dohoudaniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
@@ -93,9 +88,8 @@
 1. Learnopolia 🐢 *(In Development)*
 2. A Green Bot 🌏 *(In Development)*
 -->
-    
-<!-- ##### A Beautiful Mind 👨‍💻🎧🤍🧘‍♂️ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=A+Beautiful+Mind)](https://git.io/typing-svg)
+<br>
+<h4 align=center color=red>A Beautiful Mind</h4>
 
 
 <!-- - 🤍 I am A Beautiful Mind ❣✨. -->
