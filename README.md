@@ -28,7 +28,7 @@
 <h3 align=center>My GitHub Stats</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=dohoudaniel&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=dohoudaniel&theme=algolia" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
