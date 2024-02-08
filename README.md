@@ -23,6 +23,10 @@
 - 🌹 <strong>Connect with me: </strong><a href="https://wa.me/+2348139720259">WhatsApp</a>&nbsp;&nbsp;<a href="mailto:dohoudanielfavour@gmail.com">Gmail</a>&nbsp;&nbsp;<a href="https://twitter.com/DohouDaniel10">Twitter</a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19571241/daniel-dohou">Stack Overflow</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniel-dohou-1435aa23b/">LinkedIn</a>
 -->
 
+<!-- Profile Views -->
+<div align="center">
+    <img src="https://visitcount.itsvg.in/api?id=dohoudaniel&label=Profile%20Views&color=1&icon=5&pretty=true"  alt="profile views"/>
+</div>
 <!-- [![An image of @dohoudaniel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dohoudaniel)](https://holopin.io/@dohoudaniel) -->
 <br>
 <h3 align=center>My GitHub Stats</h3>
@@ -36,6 +40,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dohoudaniel&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dohoudaniel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mcsavvy&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </p>
 
 
