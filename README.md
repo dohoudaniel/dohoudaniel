@@ -22,7 +22,7 @@
 <!--
 - 🌹 <strong>Connect with me: </strong><a href="https://wa.me/+2348139720259">WhatsApp</a>&nbsp;&nbsp;<a href="mailto:dohoudanielfavour@gmail.com">Gmail</a>&nbsp;&nbsp;<a href="https://twitter.com/DohouDaniel10">Twitter</a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19571241/daniel-dohou">Stack Overflow</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/daniel-dohou-1435aa23b/">LinkedIn</a>
 -->
-
+<br>
 <!-- Profile Views -->
 <div align="center">
     <img src="https://visitcount.itsvg.in/api?id=dohoudaniel&label=Profile%20Views&color=1&icon=5&pretty=true"  alt="profile views"/>
