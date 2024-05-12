@@ -8,8 +8,8 @@
   
 - 👨‍💻 <strong>Building: </strong>
     - <a href="https://learnopolia.github.io/">Learnopolia 🐢</a>:
+        - <a href="https://www.learnopolia.tech">Website</a> <!-- https://learnopolia.github.io -->
         - <a href="https://github.com/learnopolia/">GitHub Org.</a>
-        - <a href="https://learnopolia.github.io/">Website (Static)</a>
   
     - <a href="https://a-green-bot.github.io/">A Green Bot 🌏</a>
         - <a href="https://github.com/A-Green-Bot">GitHub Org.</a>
