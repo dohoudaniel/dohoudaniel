@@ -7,7 +7,7 @@
 - 🌹 I am looking to collaborate on projects.
   
 - 👨‍💻 <strong>Building: </strong>
-    - <a href="https://learnopolia.github.io/">Learnopolia 🐢</a>:
+    - <a href="https://twitter.com/Learnopolia">Learnopolia 🐢</a>:
         - <a href="https://www.learnopolia.tech">Website</a> <!-- https://learnopolia.github.io -->
         - <a href="https://github.com/learnopolia/">GitHub Org.</a>
   
