@@ -31,7 +31,7 @@
   <li><strong><a href="https://medium.com/@dohoudanielfavour/what-happens-when-you-type-www-google-com-in-your-web-browser-and-press-enter-b4ded1b99b90">What Happens When You Type 'www.google.com' and press 'Enter'?</a></strong></li>
 </ul>
 <br>
-<h3 align=center>My GitHub Stats</h3>
+<h2 align=center>My GitHub Stats</h2>
 <!-- Profile Views -->
 <div align="center">
     <img src="https://visitcount.itsvg.in/api?id=dohoudaniel&label=Profile%20Views&color=1&icon=5&pretty=true"  alt="profile views"/>
@@ -51,7 +51,7 @@
 </div>
 <!-- Languages And Tools -->
 <br>
-<h3 align="center">My Skills</h3></strong>
+<h2 align="center">My Skills</h2></strong>
 <hr>
 <div align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -67,18 +67,20 @@
 </div>
 <hr/>
 <br>
-<h3 align="center">My Socials</h3></strong>
+<h2 align="center">My Socials</h2></strong>
+<hr>
 <div align="center">
   <a href="https://www.x.com/DohouDaniel10" target="_blank" rel="noreferrer"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/dohoudaniel" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </a>
   <a href="https://www.github.com/dohoudaniel" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a>
   <a href="https://dohoudanielfavour.hashnode.dev" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </a>
   <a href="https://www.linkedin.com/in/daniel-dohou-1435aa23b/" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a>
-  <a href="http://www.instagram.com/dohoudanielfavour" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </> </a>
+  <a href="http://www.instagram.com/dohoudanielfavour" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a>
   <a href="http://www.medium.com/@dohoudanielfavour" target="_blank" rel="noreferrer"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
   <a href="https://www.stackoverflow.com/users/19571241/dohou-daniel-favour" target="_blank" rel="noreferrer"><source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
   <a href="https://www.youtube.com/@dohoudanielfavour" target="_blank" rel="noreferrer"><source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </div>
+<hr/>
 <br>
 <h4 align=center color=red>A Beautiful Mind</h4>
 
