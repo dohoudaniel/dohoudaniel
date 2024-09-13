@@ -28,8 +28,8 @@
   <li><strong><a href="https://studentsofalxse.hashnode.dev/julien-barbier-building-a-startup-as-an-swe">Building A Startup As A Software Engineer: Insights from an X (Twitter) Space With Julien Barbier (#ALX_SE)</a></strong></li>
   <li><strong><a href="https://studentsofalxse.hashnode.dev/julien-barbier-alxse-building-side-projects">Building Side Projects: The Secret to Long-Term Success in Tech (Julien Barbier)</a></strong></li>
   <li><strong><a href="https://dohoudanielfavour.hashnode.dev/a-yearlong-odyssey-365daysofsoftwareengineering">A Yearlong Odyssey: #365DaysOfSoftwareEngineering</a></strong></li>
-</ul>
   <li><strong><a href="https://medium.com/@dohoudanielfavour/what-happens-when-you-type-www-google-com-in-your-web-browser-and-press-enter-b4ded1b99b90">What Happens When You Type 'www.google.com' and press 'Enter'?</a></strong></li>
+</ul>
 <br>
 <h3 align=center>My GitHub Stats</h3>
 <!-- Profile Views -->
