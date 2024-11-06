@@ -9,11 +9,21 @@
 <div align="center">
   <h4 align="center">Completion Of The ALX SE Program</h4>
   <img src="Certificates/ALX_SE_2024/Dohou_Daniel_Favour-ALX_SE_Certificate-13th_September_2024.png" alt="Dohou Daniel Favour - ALX SE Certificate">
-  <!--
+
   <br>
   <h4 align="center">Completion Of The ALX AiCE Program</h4>
-  <img src="Certificates/" alt="">
+  <img src="Certificates/ALX_AiCE_2024/Dohou_Daniel_Favour-ALX_AiCE_Certificate-November_5_2024.png" alt="Dohou Daniel Favour - ALX AI Career Essentials Certificate">
+
+  <!--
+  <br>
+  <h4 align="center">Completion Of The ALX Founders Academy Program</h4>
+  <img scr="ALX_Founders_Academy" alt="">
+
+  <br>
+  <h4 align="center">Completion Of The ALX ProDev Program</h4>
+  <img scr="ALX_ProDev_Backend" alt="">
   -->
+  
 </div>
 <br>
 <h2 align="center">What I Worked On & I'm Currently Working On</h2>
