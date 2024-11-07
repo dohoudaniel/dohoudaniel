@@ -48,9 +48,10 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://git.io/streak-stats">
+  <!-- a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=dohoudaniel&theme=algolia" alt="GitHub Streak" />
-  </a>
+</a -->
+  <!-- a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dohoudaniel&theme=algolia" alt="GitHub Streak" /></a -->
 </div>
 <div align="center">
 <a href="https://github.com/dohoudaniel">
