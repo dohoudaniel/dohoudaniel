@@ -16,7 +16,7 @@
 
   <br>
   <h4 align="center">Completion Of The ALX Founders Academy Program</h4>
-  <img scr="Certificates/ALX_Founder_Academy/Dohou-Daniel-Favour-Founder-Academy.png" alt="Dohou Daniel Favour - ALX Founders Academy">
+  <img scr="Certificates/ALX_FA/Dohou-Daniel-Favour-Founder-Academy.png" alt="Dohou Daniel Favour - ALX Founders Academy">
 
   <!--
   <br>
