@@ -16,14 +16,14 @@
 
   <br>
   <h4 align="center">Completion Of The ALX Founders Academy Program</h4>
-  <img scr="Certificates/Dohou-Daniel-Favour-Founder-Academy.png" alt="Dohou Daniel Favour - ALX Founders Academy">
+  <img scr="Certificates/ALX_FA_2024/Dohou_Daniel_Favour-Founder_Academy.png" alt="Dohou Daniel Favour - ALX Founders Academy">
 
   <!--
   <br>
   <h4 align="center">Completion Of The ALX ProDev Program</h4>
   <img scr="ALX_ProDev_Backend" alt="">
   -->
-  
+
 </div>
 <br>
 <h2 align="center">What I Worked On & I'm Currently Working On</h2>
@@ -98,7 +98,7 @@
 
 <!-- Drafts -->
 <!-- - 🤍 I am A Beautiful Mind ❣✨. -->
-<!-- - 👨‍💻 I planned on learning Android Application Development with Google Africa Developer Scholarship 2023 (This is the fourth time I enroll for Google Africa Developer Scholarship.). Sadly, the Google Africa Developer Scholarship Program has come to an end after 5 years. This is truly a bittersweet occurrence to me, but I shall not give up my love for Android Application Development. I will keep on looking, and I will surely find 👨‍💻🎧🤍. 
+<!-- - 👨‍💻 I planned on learning Android Application Development with Google Africa Developer Scholarship 2023 (This is the fourth time I enroll for Google Africa Developer Scholarship.). Sadly, the Google Africa Developer Scholarship Program has come to an end after 5 years. This is truly a bittersweet occurrence to me, but I shall not give up my love for Android Application Development. I will keep on looking, and I will surely find 👨‍💻🎧🤍.
 - Here are the links to my certificate of completion of the GADS Program:
   - 2020 Certificate of Completion: https://github.com/dohoudaniel/dohoudaniel/tree/main/Certificates/Google-Africa-Developer-Scholarship-AAD/2020-Certificate-Of-Completion
   - 2022 Certificate of Completion: https://github.com/dohoudaniel/dohoudaniel/tree/main/Certificates/Google-Africa-Developer-Scholarship-AAD/2022-Certificate-Of-Completion ( To Be Updated ) -->
