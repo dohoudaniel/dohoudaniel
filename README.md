@@ -40,6 +40,7 @@
 <br>
 <h2 align="center">Some Of My Published Technical Blogs</h2>
 <ul>
+  <li><strong><a href="">#ALX_SE: Landing Your First Job In Tech</a></strong></li>
   <li><strong><a href="https://studentsofalxse.hashnode.dev/julien-barbier-building-a-startup-as-an-swe">Building A Startup As A Software Engineer: Insights from an X (Twitter) Space With Julien Barbier (#ALX_SE)</a></strong></li>
   <li><strong><a href="https://studentsofalxse.hashnode.dev/julien-barbier-alxse-building-side-projects">Building Side Projects: The Secret to Long-Term Success in Tech (Julien Barbier)</a></strong></li>
   <li><strong><a href="https://dohoudanielfavour.hashnode.dev/a-yearlong-odyssey-365daysofsoftwareengineering">A Yearlong Odyssey: #365DaysOfSoftwareEngineering</a></strong></li>
