@@ -28,7 +28,7 @@
   <br>
   <h4 align="center">ALX SE Tutor (Voluneer)</h4>
   
-  ![ALX SE Tutors (Volunteers) Certificate](Certificates/ALX_SE_Tutor_2024/Daniel_Dohou-ALX_SE_Tutor_For_C20_C1-Blended&C21.jpg)
+  ![ALX SE Tutors (Volunteers) Certificate](Certificates/ALX_SE_Tutor_2024/Daniel_Dohou-Portfolio_Project_Certificate.jpg)
 <!--
   <br>
   <h4 align="center">Completion Of The ALX ProDev Program</h4>
