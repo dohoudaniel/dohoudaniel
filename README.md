@@ -26,7 +26,7 @@
   ![ALX Founder's Academy Certificate](Certificates/ALX_FA_2024/Dohou_Daniel_Favour-Founder_Academy.png)
 
   <br>
-  <h4 align="center">ALX SE Tutor (Voluneer)</h4>
+  <h4 align="center">ALX SE Tutor (Volunteer)</h4>
   
   ![ALX SE Tutors (Volunteers) Certificate](Certificates/ALX_SE_Tutor_2024/Daniel_Dohou-Portfolio_Project_Certificate.jpg)
 <!--
