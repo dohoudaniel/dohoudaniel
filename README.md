@@ -36,12 +36,13 @@
 -->
 
 <br>
-<h2 align="center">What I Worked On & I'm Currently Working On</h2>
-<ul>
+<h2 align="center">What I'm Building</h2> <!-- Worked On & I'm Currently Working On -->
+<p align="center"> Check out my <strong><a href="https://dohoudanielfavour.onrender.com">Portfolio</a></strong> here</p>
+<!-- ul>
   <li><strong><a href="https://github.com/ALX-SE-Algorithmia">Algorithmia SE 🌍</a></strong></li>
-  <li><strong><a href="https://twitter.com/Learnopolia">Learnopolia 🐢</a></strong> (<a href="https://learnopolia.onrender.com">Website</a> |<!-- https://learnopolia.github.io --> <a href="https://github.com/learnopolia/">GitHub Org.</a>)</li>
+  <li><strong><a href="https://twitter.com/Learnopolia">Learnopolia 🐢</a></strong> (<a href="https://learnopolia.onrender.com">Website</a> |<!-- https://learnopolia.github.io <a href="https://github.com/learnopolia/">GitHub Org.</a>)</li>
   <li><strong><a href="https://a-green-bot.github.io/">A Green Bot ♻</a></strong> (<a href="https://a-green-bot.github.io/">Website</a> | <a href="https://github.com/A-Green-Bot">GitHub Org.</a>)</li>
-</ul>
+</ul -->
 <br>
 <h2 align="center">Some Of My Published Technical Blogs</h2>
 <ul>
