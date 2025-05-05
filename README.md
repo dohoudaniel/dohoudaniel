@@ -37,7 +37,7 @@
 
 <br>
 <h2 align="center">What I'm Building</h2> <!-- Worked On & I'm Currently Working On -->
-<p align="center"> Check out my <strong><a href="https://dohoudanielfavour.vercel.app">Portfolio</a></strong> here</p>
+<p align="center"> Check out my <strong><a href="https://dohoudanielfavour.vercel.app" target="_blank">Portfolio</a></strong> here</p>
 <!-- ul>
   <li><strong><a href="https://github.com/ALX-SE-Algorithmia">Algorithmia SE 🌍</a></strong></li>
   <li><strong><a href="https://twitter.com/Learnopolia">Learnopolia 🐢</a></strong> (<a href="https://learnopolia.onrender.com">Website</a> |<!-- https://learnopolia.github.io <a href="https://github.com/learnopolia/">GitHub Org.</a>)</li>
@@ -188,7 +188,7 @@ Part 2
 <!-- [![dohoudaniel's GitHub | Languages Over Time](https://stats.quine.sh/dohoudaniel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dohoudaniel) -->
 
 
-<!-- ##### Portfolio Projects 👨‍💻
+<!-- #####  Projects 👨‍💻
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&color=F60407F6&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Portfolio+Projects)](https://git.io/typing-svg)
 1. Learnopolia 🐢 *(In Development)*
 2. A Green Bot 🌏 *(In Development)*
