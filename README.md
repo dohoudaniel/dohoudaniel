@@ -1,6 +1,6 @@
 - 🔥 Hi, I am <strong>Dohou Daniel Favour</strong> (Check me out on X (Twitter): <strong><a href="https://x.com/DohouDaniel10/" target="_blank">@DohouDaniel10</a></strong>)
 - ✨ <strong>I’m interested in building Software Engineering projects, Open Source, and being a Google Developer Expert.</strong>
-- 👨‍💻 I am an <strong>ALX Certified Software Engineer</strong> (Check out my Consistency Journey here: <strong><a href="https://twitter.com/search?q=%23365daysofsoftwareengineering&src=hashtag_click">#365DaysOfSoftwareEngineering</a></strong>).
+- 👨‍💻 I am an <strong>ALX Certified Software Engineer</strong> (Check out my Consistency Journey here: <strong><a href="https://twitter.com/search?q=%23365daysofsoftwareengineering&src=hashtag_click">#365DaysOfSoftwareEngineering</a></strong>)
 - 🌟 I'm a <strong><a href="https://twitter.com/facesofalxse/status/1704408871542854002?s=20">Face of ALX SE</a></strong>
 - ✍ I am a <strong>Technical Writer</strong>
 - 👨‍💻 I am <strong>looking to collaborate on and build ground-breaking projects</strong>
