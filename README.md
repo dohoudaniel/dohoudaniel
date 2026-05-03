@@ -45,69 +45,72 @@ Backend-heavy full-stack engineer who ships production software people actually 
 
 ## 🛠 Tech Stack
 
-**Languages**
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;&nbsp;
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
-
-**Frontend**
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>&nbsp;&nbsp;
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/framer/0055FF" width="36" height="36" alt="Framer Motion" /></a>
-</p>
-
-**Backend**
-
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>&nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express" /></a>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/celery/37814A" width="36" height="36" alt="Celery" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="36" height="36" alt="Swagger / REST API" />
-</p>
-
-**Databases & Infrastructure**
-
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>&nbsp;&nbsp;
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>&nbsp;&nbsp;
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel" /></a>
-</p>
-
-**AI & Machine Learning**
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="OpenAI" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/D97706" width="36" height="36" alt="Anthropic / Claude AI" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="36" height="36" alt="Google Gemini" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" height="36" alt="Hugging Face" />
-</p>
-
-**Tools & Workflow**
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="36" height="36" alt="Postman" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="36" height="36" alt="Nginx" />
-</p>
+<table>
+  <tr>
+    <td align="right" valign="middle" width="140"><b>Languages</b></td>
+    <td valign="middle">
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" height="32" alt="Python" title="Python" /></a>&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" alt="JavaScript" title="JavaScript" /></a>&nbsp;
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="32" height="32" alt="TypeScript" title="TypeScript" /></a>&nbsp;
+      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="32" height="32" alt="C" title="C" /></a>&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" height="32" alt="HTML5" title="HTML5" /></a>&nbsp;
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" height="32" alt="CSS3" title="CSS3" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Frontend</b></td>
+    <td valign="middle">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="32" height="32" alt="React" title="React" /></a>&nbsp;
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" title="Next.js" /></a>&nbsp;
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;
+      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="32" height="32" alt="Vite" title="Vite" /></a>&nbsp;
+      <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/framer/0055FF" width="32" height="32" alt="Framer Motion" title="Framer Motion" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Backend</b></td>
+    <td valign="middle">
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="32" height="32" alt="Django" title="Django" /></a>&nbsp;
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="32" height="32" alt="FastAPI" title="FastAPI" /></a>&nbsp;
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="32" height="32" alt="Node.js" title="Node.js" /></a>&nbsp;
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" height="32" alt="Express" title="Express" /></a>&nbsp;
+      <img src="https://cdn.simpleicons.org/celery/37814A" width="32" height="32" alt="Celery" title="Celery" />&nbsp;
+      <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="32" height="32" alt="Swagger" title="Swagger / REST API" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Databases &amp; Infra</b></td>
+    <td valign="middle">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="32" height="32" alt="MySQL" title="MySQL" /></a>&nbsp;
+      <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="32" height="32" alt="Redis" title="Redis" /></a>&nbsp;
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="32" height="32" alt="Supabase" title="Supabase" /></a>&nbsp;
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" height="32" alt="Docker" title="Docker" /></a>&nbsp;
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="32" height="32" alt="AWS" title="AWS" /></a>&nbsp;
+      <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/000000" width="32" height="32" alt="Vercel" title="Vercel" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>AI &amp; ML</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="32" height="32" alt="OpenAI" title="OpenAI" />&nbsp;
+      <img src="https://cdn.simpleicons.org/anthropic/D97706" width="32" height="32" alt="Claude AI" title="Anthropic / Claude AI" />&nbsp;
+      <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="32" height="32" alt="Google Gemini" title="Google Gemini" />&nbsp;
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="32" height="32" alt="LangChain" title="LangChain" />&nbsp;
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" title="Hugging Face" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>Tools</b></td>
+    <td valign="middle">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="32" height="32" alt="Git" title="Git" /></a>&nbsp;
+      <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="32" height="32" alt="Linux" title="Linux" /></a>&nbsp;
+      <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" title="GitHub" />&nbsp;
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="32" height="32" alt="Postman" title="Postman" />&nbsp;
+      <img src="https://cdn.simpleicons.org/nginx/009639" width="32" height="32" alt="Nginx" title="Nginx" />
+    </td>
+  </tr>
+</table>
 
 ---
 
