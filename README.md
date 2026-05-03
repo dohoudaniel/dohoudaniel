@@ -20,14 +20,14 @@
 Backend-heavy full-stack engineer who ships production software people actually use.
 
 - 🚀 Built **[Smart ATS](https://smart-ats.algorithmia-se.com)** — trusted by **300+ job seekers**, with **150+ CVs reviewed** and a 70% average ATS score
+- 🐧 **Outreachy May 2026** — contributed to the **Fedora Project** (Ramalama RAG LLM), working on assigned issues and tasks on real open-source infrastructure
 - 🔨 Currently building **[JechSpace](https://jechspace.com)** — a real-time smart workspace booking platform with calendar sync, conflict-free reservations, and analytics
 - 🌍 **Founded [Algorithmia SE](https://algorithmia-se.com)** — grew an ALX SE study group into a **1,000+ member** open-source engineering community
 - 🏆 **ALX SE Superman** — recognized for exceptional technical excellence and community leadership
 - 🥉 **Hackathon Winner** (3rd place) — shipped **[JechSpace](https://jechspace.com)** under competition pressure
 - 👥 **Managed 4,000+ learners** across 13 cohorts at ALX Nigeria · **8.76 CSAT · 4.53 NPS**
-- 🐧 **Outreachy May 2026** — contributed to the **Fedora Project** (Ramalama RAG LLM), working on assigned issues and tasks on real open-source infrastructure
-- ✍️ **Technical Writer** — published on Hashnode and Medium
 - 📰 **Featured in** [This Day Live](https://www.thisdaylive.com/2023/11/21/from-a-shy-rookie-to-a-tech-leader-the-story-of-daniel-dohou/) and [Faces of ALX SE](https://www.facesofalxse.com/p/daniel-dohou-the-community-building)
+  ✍️ **Technical Writer** — published on Hashnode and Medium
 
 ---
 
