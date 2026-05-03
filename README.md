@@ -2,9 +2,9 @@
 
 # Daniel Favour Dohou
 
-### Backend-Heavy Full-Stack Software Engineer
+### Backend Engineer · AI Builder · Open Source Contributor
 
-**Python · Django · React · AI Integration · Production Systems**
+**Python · Django · React · AI Systems · Production Infrastructure**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dohoudanielfavour.me-3B82F6?style=for-the-badge&logo=globe&logoColor=white)](https://dohoudanielfavour.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dohoudanielfavour)
@@ -19,11 +19,13 @@
 
 Backend-heavy full-stack engineer who ships production software people actually use.
 
-- 🚀 Built **[Smart ATS](https://smart-ats.algorithmia-se.com)** — trusted by **200+ job seekers**, with **150+ CVs reviewed** and a 70% average ATS score
-- 🏆 **ALX SE Superman** — recognized for exceptional technical excellence and community leadership
-- 🥉 **Hackathon Winner** (3rd place) — shipped **[JechSpace](https://jechspace.com)**, a real-time workspace booking platform, under competition pressure
+- 🚀 Built **[Smart ATS](https://smart-ats.algorithmia-se.com)** — trusted by **300+ job seekers**, with **150+ CVs reviewed** and a 70% average ATS score
+- 🔨 Currently building **[JechSpace](https://jechspace.com)** — a real-time smart workspace booking platform with calendar sync, conflict-free reservations, and analytics
 - 🌍 **Founded [Algorithmia SE](https://algorithmia-se.com)** — grew an ALX SE study group into a **1,000+ member** open-source engineering community
+- 🏆 **ALX SE Superman** — recognized for exceptional technical excellence and community leadership
+- 🥉 **Hackathon Winner** (3rd place) — shipped **[JechSpace](https://jechspace.com)** under competition pressure
 - 👥 **Managed 4,000+ learners** across 13 cohorts at ALX Nigeria · **8.76 CSAT · 4.53 NPS**
+- 🐧 **Outreachy May 2026** — contributed to the **Fedora Project** (Ramalama RAG LLM), working on assigned issues and tasks on real open-source infrastructure
 - ✍️ **Technical Writer** — published on Hashnode and Medium
 - 📰 **Featured in** [This Day Live](https://www.thisdaylive.com/2023/11/21/from-a-shy-rookie-to-a-tech-leader-the-story-of-daniel-dohou/) and [Faces of ALX SE](https://www.facesofalxse.com/p/daniel-dohou-the-community-building)
 
@@ -33,9 +35,9 @@ Backend-heavy full-stack engineer who ships production software people actually 
 
 <div align="center">
 
-| 200+ | 150+ | 1,000+ | 4,000+ | 8.76 | 6+ |
+| 300+ | 150+ | 1,000+ | 4,000+ | 8.76 | 9+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Live Users | CVs Reviewed | Community Members | Learners Managed | CSAT Score | Apps Shipped |
+| Live Users | CVs Reviewed | Community Members | Learners Managed | CSAT Score | Projects Shipped |
 
 </div>
 
@@ -43,65 +45,126 @@ Backend-heavy full-stack engineer who ships production software people actually 
 
 ## 🛠 Tech Stack
 
-**Backend**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>&nbsp;&nbsp;
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/framer/0055FF" width="36" height="36" alt="Framer Motion" /></a>
+</p>
+
+**Backend**
+
+<p align="left">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express" /></a>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/celery/37814A" width="36" height="36" alt="Celery" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="36" height="36" alt="Swagger / REST API" />
+</p>
 
 **Databases & Infrastructure**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>&nbsp;&nbsp;
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>&nbsp;&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel" /></a>
+</p>
 
-**AI & Tools**
+**AI & Machine Learning**
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="OpenAI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/D97706" width="36" height="36" alt="Anthropic / Claude AI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="36" height="36" alt="Google Gemini" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" height="36" alt="Hugging Face" />
+</p>
+
+**Tools & Workflow**
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="36" height="36" alt="Postman" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nginx/009639" width="36" height="36" alt="Nginx" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | What it does | Stack | Live |
+| Project | What it does | Stack | Status |
 |---|---|---|---|
-| **[Smart ATS](https://smart-ats.algorithmia-se.com)** | AI CV scorer trusted by 200+ job seekers — reveals keyword gaps, scores ATS compatibility, generates cover letters | Django · Gemini AI · React · Redis · Celery | [↗](https://smart-ats.algorithmia-se.com) |
-| **[JechSpace](https://jechspace.com)** | Real-time workspace booking — conflict-free reservations, Google Calendar sync, Stripe payments, 40% fewer no-shows | Django · WebSockets · Google Calendar · Stripe | [↗](https://jechspace.com) |
-| **[OpenPandora](https://open-pandora.com)** | AI startup — autonomous agents that plan, execute, and iterate on complex multi-step real-world workflows | FastAPI · Claude · OpenAI · LangChain · React | [↗](https://open-pandora.com) |
-| **[VeriFact AI](https://myaipoweredfactchecker.vercel.app)** | Multimodal fact-checker — paste text or upload a screenshot, get an evidence-backed verdict with sources in seconds | React · Gemini AI · Google Search Grounding | [↗](https://myaipoweredfactchecker.vercel.app) |
-| **[FocusSprint](https://myfocussprint.vercel.app)** | AI-powered focus & wellness tool — Pomodoro sessions, personalized coaching, trend analysis | React · Gemini Pro · Supabase · Tailwind | [↗](https://myfocussprint.vercel.app) |
-| **[Algorithmia SE](https://algorithmia-se.com)** | Open-source engineering community I founded — 1,000+ members, production projects, mentorship programs | Open Source · GitHub | [↗](https://algorithmia-se.com) |
+| **[Smart ATS](https://smart-ats.algorithmia-se.com)** | AI CV scorer trusted by **300+** job seekers — keyword gap analysis, ATS compatibility scoring, cover letter generator, Kanban job tracker | Django · Gemini AI · React · Redis · Celery · PostgreSQL | 🟢 Live |
+| **[JechSpace](https://jechspace.com)** | Smart workspace booking — conflict-free reservations, Google Calendar sync, Stripe payments, analytics dashboard | Django · WebSockets · Google Calendar API · MySQL · AWS | 🔨 Building |
+| **[OpenPandora](https://open-pandora.com)** | AI startup — autonomous agents that plan, execute, and iterate on complex real-world workflows with tool-use pipelines | FastAPI · Claude AI · OpenAI · LangChain · React · PostgreSQL | 🟢 Live |
+| **[VeriFact AI](https://myaipoweredfactchecker.vercel.app)** | Multimodal fact-checker — paste text or upload a screenshot, get an evidence-backed verdict with live sources in seconds | React · Gemini AI · Google Search Grounding · TypeScript | 🟢 Live |
+| **[FocusSprint](https://myfocussprint.vercel.app)** | AI-powered focus & wellness tool — Pomodoro sessions, personalized coaching, mental health insights, trend analysis | React · Gemini Pro · Google Search Grounding · Supabase | 🟢 Live |
+| **[Calmora](https://mentalcalmora.vercel.app)** | Mental health & mood tracker — daily journaling, pattern recognition, AI chatbot, privacy-first design | React · TypeScript · Supabase · Tailwind CSS | 🟢 Live |
+| **[IP Intel Discoverer](https://findmyipinfo.vercel.app)** | Fast IP & domain intelligence — geolocation, ISP details, threat intel, reverse DNS, privacy exposure analysis | Next.js · TypeScript · Redis · Vercel | 🟢 Live |
+| **[MySQL Performance Monitor](https://github.com/telexintegrations/mysql-performance-monitor)** | Telex integration — monitors MySQL health in real time, pushes metrics (uptime, slow queries, threads) to team channels via webhook | FastAPI · PyMySQL · httpx · Webhook | 🟢 OSS |
+| **[Algorithmia SE](https://algorithmia-se.com)** | Open-source engineering community I founded — 1,000+ members, production projects, mentorship programs, technical workshops | Open Source · GitHub | 🟢 Active |
+
+---
+
+## 🐧 Open Source · Outreachy May 2026
+
+Participated in the **Outreachy May 2026 contribution phase** for the **[Fedora Project](https://fedoraproject.org)**, working on the **Ramalama RAG LLM** project.
+
+Contributed to assigned issues and tasks on real open-source infrastructure — navigating an existing codebase, communicating publicly in Matrix channels and Forgejo discussions, and shipping work that is part of the permanent Fedora project record.
+
+> *The contribution phase work happened. It's public, it's documented, and it counts.*
+
+[![View Full Portfolio](https://img.shields.io/badge/Outreachy_Portfolio-dohoudanielfavour.me/outreachy-9333EA?style=flat-square&logo=fedora&logoColor=white)](https://dohoudanielfavour.me/outreachy)
 
 ---
 
 ## 🏢 Client Work
 
-Delivered production platforms for real businesses:
+Production platforms delivered for real businesses:
 
-- **[ALX Nigeria Tribe](https://alx.ng/tribe)** — official fitness tribe platform for the ALX Nigeria network
-- **[Acadia Homes](https://acadiahomesng.vercel.app)** — full-stack real estate platform with property discovery and booking
-- **[Amovel Global Logistics](https://www.amovelglobal.com)** — international air, sea & land freight platform
-- **[Enybel Global Logistics](https://enybelgloballogistics.com)** — freight forwarding & customs clearing agency
-- **[Osmarom Nigeria Limited](https://osmaromnigerialimited.vercel.app)** — corporate platform for a premier engineering & construction firm
-- **[MiraShelf Bookstore](https://mirashelf.vercel.app)** — independent bookstore catalog with staff-managed CMS
+| Client | What I built | Live |
+|---|---|---|
+| **ALX Nigeria Tribe** | Official fitness tribe platform for the ALX Nigeria network | [↗](https://alx.ng/tribe) |
+| **Acadia Homes** | Full-stack real estate platform with property discovery, listings, and booking flows | [↗](https://acadiahomesng.vercel.app) |
+| **Amovel Global Logistics** | International air, sea & land freight booking platform | [↗](https://www.amovelglobal.com) |
+| **Enybel Global Logistics** | Freight forwarding & customs clearing agency platform | [↗](https://enybelgloballogistics.com) |
+| **Osmarom Nigeria Limited** | Corporate platform for a premier engineering & construction firm | [↗](https://osmaromnigerialimited.vercel.app) |
+| **MiraShelf Bookstore** | Independent bookstore catalog with staff-managed CMS | [↗](https://mirashelf.vercel.app) |
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Year | Level |
+|---|---|---|---|
+| ALX Software Engineering — Backend Specialization | ALX Africa | 2024 | Professional |
+| ALX ProDev Backend | ALX Africa | 2025 | Professional |
+| ALX AI for Developers 1 | ALX Africa | 2025 | Professional |
+| ALX AI for Developers 2 | ALX Africa | 2025 | Advanced |
+| ALX Cybersecurity Program | ALX Africa | 2026 | Professional |
+| ALX Ventures Founder Academy | ALX Ventures | 2024 | Professional |
+| OctoPrep AI — Career Preparation Program | OctoPrep.ai | 2026 | Professional |
 
 ---
 
