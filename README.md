@@ -85,7 +85,7 @@ Backend-heavy full-stack engineer who ships production software people actually 
   <tr>
     <td align="right"><b>AI &amp; ML</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/anthropic/D97706" width="40" height="40" alt="Claude AI" title="Anthropic / Claude AI" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/openai/10A37F" width="40" height="40" alt="OpenAI" title="OpenAI" /></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="OpenAI" title="OpenAI" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="40" height="40" alt="Google Gemini" title="Google Gemini" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain" title="LangChain" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="Hugging Face" title="Hugging Face" /></td>
