@@ -76,7 +76,7 @@ Backend-heavy full-stack engineer who ships production software people actually 
     <td align="right"><b>Databases &amp; Infra</b></td>
     <td align="center"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /></a></td>
     <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL" /></a></td>
-    <td align="center"><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="40" height="40" alt="Redis" title="Redis" /></a></td>
+    <td align="center"><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" /></a></td>
     <td align="center"><a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" height="40" alt="Supabase" title="Supabase" /></a></td>
     <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" title="Docker" /></a></td>
     <td align="center"><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="AWS" title="AWS" /></a></td>
@@ -85,7 +85,7 @@ Backend-heavy full-stack engineer who ships production software people actually 
   <tr>
     <td align="right"><b>AI &amp; ML</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/anthropic/D97706" width="40" height="40" alt="Claude AI" title="Anthropic / Claude AI" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=openai" width="40" height="40" alt="OpenAI" title="OpenAI" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/openai/10A37F" width="40" height="40" alt="OpenAI" title="OpenAI" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="40" height="40" alt="Google Gemini" title="Google Gemini" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain" title="LangChain" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="Hugging Face" title="Hugging Face" /></td>
