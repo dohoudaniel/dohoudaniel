@@ -85,7 +85,7 @@ Backend-heavy full-stack engineer who ships production software people actually 
   <tr>
     <td align="right"><b>AI &amp; ML</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/anthropic/D97706" width="40" height="40" alt="Claude AI" title="Anthropic / Claude AI" /></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="OpenAI" title="OpenAI" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI" title="OpenAI" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="40" height="40" alt="Google Gemini" title="Google Gemini" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain" title="LangChain" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="Hugging Face" title="Hugging Face" /></td>
@@ -94,7 +94,7 @@ Backend-heavy full-stack engineer who ships production software people actually 
     <td align="right"><b>Tools</b></td>
     <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" title="Git" /></a></td>
     <td align="center"><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" title="Linux" /></a></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub" title="GitHub" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" title="GitHub" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="Postman" title="Postman" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/nginx/009639" width="40" height="40" alt="Nginx" title="Nginx" /></td>
   </tr>
