@@ -37,7 +37,7 @@ Backend Software Engineer working remotely from Lagos, Nigeria (UTC+1), a full w
 
 <div align="center">
 
-| 4 | 500+ | 1,000+ | 4,000+ | 8.76 | 24 |
+| 4 | 500+ | 1,000+ | 4,000+ | 8.76 | 25 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Products Live | Users Served | Community Members | Learners Managed | CSAT Score | Builds Shipped |
 
@@ -169,6 +169,7 @@ Delivered builds averaging **9.1 / 10** on client satisfaction. I owned the back
 | **MiraShelf Bookstore** | Independent bookstore catalogue with a staff-managed CMS, no e-commerce overhead | [↗](https://mirashelf.vercel.app) |
 | **Acadia Homes** | Real estate CMS with property discovery, filtered search and booking flows | [↗](https://acadiahomesng.vercel.app) |
 | **Receipt Generator** | Internal tool for Acadia Homes. Nights and totals derived from the booking, branded PDF in one step | [↗](https://receiptgen4acadia.vercel.app) |
+| **OLM Freight and Logistics** | Freight forwarding and customs site backed by a TypeScript quote API with rate limiting, honeypot and duplicate detection, delivered by email | [↗](https://olmfreightlogistics.com) |
 | **Amovel Global Logistics** | International air, sea and land freight platform with routed inquiries | [↗](https://www.amovelglobal.com) |
 | **Enybel Global Logistics** | Freight forwarding and customs clearing platform | [↗](https://enybelgloballogistics.com) |
 | **Osmarom Nigeria Limited** | Corporate platform for an engineering and construction firm, tuned for low bandwidth | [↗](https://osmaromnigerialimited.vercel.app) |
@@ -248,7 +249,7 @@ I completed the contribution phase and was not selected for the internship. The 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dohoudaniel&radius=16&theme=react&area=true&hide_border=true&custom_title=Contribution%20Graph" height="280" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/3B82F6/dohoudaniel" width="100%" alt="Daniel Favour Dohou's GitHub contribution graph for the last year"/>
 </div>
 
 <div align="center">
